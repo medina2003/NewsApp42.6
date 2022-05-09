@@ -46,6 +46,7 @@ public class NewsFragment extends Fragment {
                 close();
             }
             private void close() {
+
                 NavController navController = Navigation.findNavController(requireActivity(), R.id.nav_host_fragment_activity_main);
                 navController.navigateUp();
             }
