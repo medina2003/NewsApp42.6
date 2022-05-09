@@ -12,7 +12,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import kg.geektech.newsapp42.databinding.FragmentHomeBinding;
 import kg.geektech.newsapp42.databinding.FragmentNewsBinding;
 import kg.geektech.newsapp42.models.Article;
 

@@ -1,7 +1,6 @@
 package kg.geektech.newsapp42.models;
 
 import java.io.Serializable;
-import java.nio.file.SecureDirectoryStream;
 
 public class Article implements Serializable {
     private String text;
